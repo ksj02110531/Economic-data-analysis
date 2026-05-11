@@ -48,8 +48,14 @@
 
 1. Google Colab에서 `Economic_data_analysis.ipynb` 열기
 2. CSV 파일 3개 업로드 (`files.upload()` 셀 실행)
-3. Gemini API 키 입력 (`aistudio.google.com` 에서 API key 발급)
-4. 전체 셀 순서대로 실행
+3. 셀을 순서대로 실행
+4. Gemini API 키 입력 (`aistudio.google.com` 에서 API key 발급)
+5. 이후 셀을 실행하면 AI 요약 리포트 생성
+
+---
+
+## 상세 설명
+프로젝트 배경과 문제 해결 과정은 Notion 포트폴리오에서 확인할 수 있습니다.
 
 ---
 
